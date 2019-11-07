@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "76032406868",
+    "firebase_url": "https://enigmamovies-468a6.firebaseio.com",
+    "project_id": "enigmamovies-468a6",
+    "storage_bucket": "enigmamovies-468a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76032406868:android:9ff45a71cf25a825bf84c1",
+        "android_client_info": {
+          "package_name": "com.example.enigmacinma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76032406868-kikqd3rgpse8ir1eiksnrkdglkcts1kp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.enigmacinma",
+            "certificate_hash": "5449ad4144ce91724b6ca090fd796152c4cf4f58"
+          }
+        },
+        {
+          "client_id": "76032406868-k391ko50ev9ij2uf1hhi1930ep9dk0ff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY72irmrCFtxhivssAQpt709TwIAw-y-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76032406868-k391ko50ev9ij2uf1hhi1930ep9dk0ff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
